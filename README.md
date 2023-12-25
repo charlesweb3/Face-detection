@@ -1,2 +1,2 @@
 # Face-detection
-Python and AI to build a face detection app
+Python and AI to build a face detection app!!
